@@ -8,9 +8,9 @@ import re
 def connect_db():
     return mysql.connector.connect(
         host="localhost",
-        user="root",
-        password="root",
-        database="demo5"
+        user="",#your mysql user name
+        password="",#your mysql password
+        database=""#your Database
     )
 
 connection = connect_db()
