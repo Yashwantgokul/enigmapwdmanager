@@ -341,6 +341,6 @@ Authors
 
 
 
-Yashwant Gokul P
+Yashwant Gokul P and
 Ritish Karthik S
 .
